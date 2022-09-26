@@ -5,8 +5,8 @@ A Library Management System with python Django framework and MySQL Database.
 2. Now in the terminal run the follwing commands.
 
 python manage.py makemigrations
-python3 manage.py migrate
-python3 manage.py createsuperuser
+python manage.py migrate
+python manage.py createsuperuser
 
 create username and password
 
