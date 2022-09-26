@@ -4,11 +4,11 @@ A Library Management System with python Django framework and MySQL Database.
 1. Open the project and change the directory to library_project_ folder. For this type cd library_project_ in terminal.
 2. Now in the terminal run the follwing commands.
 
-python manage.py makemigrations
-python manage.py migrate
-python manage.py createsuperuser
+- python manage.py makemigrations
+- python manage.py migrate
+- python manage.py createsuperuser
 
-create username and password
+- create username and password
 
 3. Run a command python manage.py runserver.
 3. Now go to http://127.0.0.1:8000/ to see the website.
